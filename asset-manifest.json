@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MUI-Learning/static/css/main.964fdded.css",
+    "main.js": "/MUI-Learning/static/js/main.8163f90a.js",
+    "static/js/787.e4193597.chunk.js": "/MUI-Learning/static/js/787.e4193597.chunk.js",
+    "index.html": "/MUI-Learning/index.html",
+    "main.964fdded.css.map": "/MUI-Learning/static/css/main.964fdded.css.map",
+    "main.8163f90a.js.map": "/MUI-Learning/static/js/main.8163f90a.js.map",
+    "787.e4193597.chunk.js.map": "/MUI-Learning/static/js/787.e4193597.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.8163f90a.js"
+  ]
+}
